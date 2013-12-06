@@ -36,8 +36,7 @@ Contractors (Instructors) should be paid up front, upon completion and residuall
 
 # Payments
 
-* Initial payments will be made from Producer to Contractor at $800 per credit.
-* $400 per credit will be issued upon execution of agreements and $400 will be issued upon delivery of all raw materials by Contractor.
+* Payments will be made from Producer to Contractor at $200 per hour of edited screencast.
 * Typical initial payments will be $1,200 for a 3-credit course.
 * Gross profit should be split 70% to Contractor and 30% to Producer.
 
