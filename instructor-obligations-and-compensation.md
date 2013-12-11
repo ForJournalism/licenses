@@ -1,8 +1,6 @@
 # Summary
 
-Yeah, this initial language is a bit dry, but I'm trying to keep it as straight-forward and transparent as possible without descending into legalese.
-
-Contractors (Instructors) should be paid up front, upon completion and residually based on sales.  Producer (For Journalism) should be able to sell courses and use some of the revenue to cover infrastructure costs. No agreements should infringe upon the Contractors being able to do work, teaching, consulting or any other activities for free, trade, profit or other arrangement. 
+Contractors (Instructors) should be paid upon completion of edited screencast hours and residually based on sales.  Producer (For Journalism) should be able to sell courses and use some of the revenue to cover infrastructure costs. No agreements should infringe upon the Contractors being able to do work, teaching, consulting or any other activities for free, trade, profit or other arrangement. 
 
 # Objectives
 
