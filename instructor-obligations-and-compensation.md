@@ -37,3 +37,18 @@ Contractors (Instructors) should be paid upon completion of edited screencast ho
 * Payments will be made from Producer to Contractor at $200 per hour of edited screencast.
 * Gross profit should be split 70% to Contractor and 30% to Producer.
 
+===============
+
+Contractor name:
+
+Contractor signature:
+
+Signature date:
+
+===============
+
+For Journalism name:
+
+For Journalism  signature:
+
+Signature date:
